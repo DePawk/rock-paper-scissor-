@@ -1,0 +1,2 @@
+C:\Users\Daniel Zaharan\source\repos\RPS-prac\Debug\RPS-prac.exe
+C:\Users\Daniel Zaharan\source\repos\RPS-prac\Debug\RPS-prac.pdb

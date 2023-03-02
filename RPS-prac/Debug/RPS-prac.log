@@ -1,0 +1,3 @@
+﻿  RPS.cpp
+C:\Users\Daniel Zaharan\source\repos\RPS-prac\RPS.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RPS-prac.vcxproj -> C:\Users\Daniel Zaharan\source\repos\RPS-prac\Debug\RPS-prac.exe
